@@ -5,6 +5,7 @@
  - Javascript
  - Typescript
  - Python
+ 
 🚀 Desenvolvedor Fullstack (Loading...)
  - React
  - Vue.js
