@@ -7,7 +7,7 @@
  - Python
  
 🚀 Desenvolvedor Front-end (Loading...)
- - React
  - Vue.js
+ - React
 
 🐱‍💻 Amante da cybersegurança e futuramente pretendo iniciar no mundo de pentest
