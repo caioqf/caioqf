@@ -12,4 +12,4 @@
 
 🐱‍💻 Amante da cybersegurança e futuramente pretendo iniciar no mundo de pentest
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?caioqf=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caioqf)](https://github.com/anuraghazra/github-readme-stats)
