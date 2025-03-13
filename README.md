@@ -1,6 +1,24 @@
-#  👋 Hi there
+# Hello, stranger.
 
-👨‍💻 Back-end developer 
- - ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
- - ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
- - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+I am a Fullstack Engineer(mostyly backend) with experience Node.js. Currently, I am studying Golang and have a keen interest in Web3, Blockchain, and AI.
+
+## Technologies & Tools
+
+- **Frontend**: React, React Native
+- **Backend**: Node.js
+- **Learning**: Golang
+- **Interests**: Web3, Blockchain, AI
+
+## Current Focus
+
+I am focused on enhancing my skill tree in various technologies and exploring innovative solutions in the Web3 and AI domains. 
+I am committed to my own projects.
+
+
+## Connect with Me
+
+Feel free to reach out for collaboration, discussions, or inquiries
+
+---
+
+🤖
