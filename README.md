@@ -5,7 +5,7 @@ I am a Fullstack Engineer(mostyly backend) with experience Node.js. Currently, I
 ## Technologies & Tools
 
 - **Frontend**: React, React Native
-- **Backend**: Node.js
+- **Backend**: Node.js, Typescript (Nest.js)
 - **Learning**: Golang
 - **Interests**: Web3, Blockchain, AI
 
