@@ -1,4 +1,4 @@
-# Hello, stranger.
+# 'Hello, friend?" That's lame.
 
 I work full time as a Fullstack Engineer (mostyly backend) with experience Node.js and it's ecossystem. Currently, I am studying Golang and have a keen interest in Web3, Blockchain, and AI.
 
