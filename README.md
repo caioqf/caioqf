@@ -1,13 +1,14 @@
 # "Hello, friend?" That's lame.
 
-I am a full-time Software Developer with experience in Node.js, React, and React Native, focusing on building scalable and efficient applications. Currently, I am studying Golang and exploring Web3, Blockchain, and AI to expand my expertise. I am always interested in learning new technologies and working on challenging projects.
+I am a full-time Software Developer building scalable and efficient applications. Currently, I am studying Golang and exploring Web3, Blockchain, and AI to expand my expertise. I am always interested in learning new technologies and working on challenging projects.
 
 ## Technologies & Tools
 
 - **Frontend**: React, React Native
 - **Backend**: Node.js, Typescript (Nest.js)
 - **Learning**: Golang
-- **Interests**: Web3, Blockchain, AI
+- **Interests**: Web3, Blockchain, AI, Automation
+- **OS**: Linux, Windows
 
 ## Current Focus
 
