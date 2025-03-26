@@ -1,6 +1,6 @@
 # "Hello, friend?" That's lame.
 
-I work full time as a Fullstack Engineer (mostyly backend) with experience Node.js and it's ecosystem. Currently, I am studying Golang and have a keen interest in Web3, Blockchain, and AI.
+I am a full-time Software Developer with experience in Node.js, React, and React Native, focusing on building scalable and efficient applications. Currently, I am studying Golang and exploring Web3, Blockchain, and AI to expand my expertise. I am always interested in learning new technologies and working on challenging projects.
 
 ## Technologies & Tools
 
@@ -11,8 +11,7 @@ I work full time as a Fullstack Engineer (mostyly backend) with experience Node.
 
 ## Current Focus
 
-I am focused on enhancing my skill tree in various technologies and monetizing innovative solutions with automation and AI. 
-I am committed to my own projects.
+Enhancing my skill set across various technologies and starting my journey as an entrepreneur in Software and AI.
 
 ## Projects
 
