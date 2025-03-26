@@ -12,7 +12,7 @@ I am a full-time Software Developer building scalable and efficient applications
 
 ## Current Focus
 
-Enhancing my skill set across various technologies and starting my journey as an entrepreneur in Software and AI.
+Enhancing my skill set across various technologies and starting my journey as an entrepreneur and solo founder in Software and AI.
 
 ## Projects
 
