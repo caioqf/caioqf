@@ -11,9 +11,12 @@ I work full time as a Fullstack Engineer (mostyly backend) with experience Node.
 
 ## Current Focus
 
-I am focused on enhancing my skill tree in various technologies and exploring innovative solutions in the Web3 and AI. 
+I am focused on enhancing my skill tree in various technologies and monetizing innovative solutions with automation and AI. 
 I am committed to my own projects.
 
+## Projects
+
+COMING SOON 🔜
 
 ## Connect with Me
 
