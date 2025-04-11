@@ -1,6 +1,6 @@
 # "Hello, friend?" That's lame.
 
-I am a full-time Software Developer building scalable and efficient applications. Currently, I am studying Golang and exploring Web3, Blockchain, and AI to expand my expertise. I am always interested in learning new technologies and working on challenging projects.
+I am a full-time Software Developer building scalable and efficient applications. Currently, I am studying Golang and exploring Web3, Blockchain, and AI automations. I am always interested in learning new technologies and working on challenging projects.
 
 ## Technologies & Tools
 
