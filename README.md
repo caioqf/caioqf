@@ -1,6 +1,6 @@
 # Hello 🤖
 
-I am a full-time Software Developer building scalable and efficient applications. Currently, I am studying Golang, exploring Blockchain tech, and AI automations. I am always interested in learning new technologies and working on challenging projects.
+I am a full-time Software Developer. Currently, I am studying Golang, exploring Blockchain tech, and AI automations. I am always interested in learning new technologies and working on challenging projects.
 
 ## Technologies & Tools
 
