@@ -4,8 +4,8 @@ I am a full-time Software Developer building scalable and efficient applications
 
 ## Technologies & Tools
 
-- **Frontend**: React, React Native
-- **Backend**: Golang, Node.js, Typescript (Nest.js)
+- **Frontend**: React, React Native, Vue.js
+- **Backend**: Golang, Node.js, Typescript
 - **Interests**: Web3, Blockchain, AI, Automation
 - **OS**: Linux, Windows
 
