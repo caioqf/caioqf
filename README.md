@@ -9,10 +9,6 @@ I am a full-time Software Developer building scalable and efficient applications
 - **Interests**: Web3, Blockchain, AI, Automation
 - **OS**: Linux, Windows
 
-## Current Focus
-
-Starting my journey as an entrepreneur and solo founder in Software and AI.
-
 ## Projects
 
 - [whipr](https://github.com/caioqf/whipr) - Multiplatform tool to translate selected text easily with one keyboard command
