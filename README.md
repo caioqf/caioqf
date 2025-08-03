@@ -6,7 +6,7 @@ Full-time Software Developer. Currently, I am studying Golang, exploring Blockch
 
 - **Frontend**: React, React Native, Vue.js
 - **Backend**: Golang, Node.js, Typescript
-- **Interests**: Web3, Blockchain, AI, Automation
+- **Interests**: Web3, Blockchain, AI, Automation and InfoSec
 - **OS**: Linux, Windows
 
 ## Projects
