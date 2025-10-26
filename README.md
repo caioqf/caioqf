@@ -1,4 +1,4 @@
-# Hello 🤖
+# Hello 
 
 Full-time Software Developer. Currently, I am studying Golang, exploring Blockchain tech, and AI automations. I am always interested in learning new technologies and working on challenging projects.
 
