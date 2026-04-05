@@ -6,9 +6,9 @@ Building cloud infrastructure for AI workloads.
 
 ## Technologies & Tools
 
-- **Backend**: Golang, Node.js, Typescript
+- **Backend**: Golang, Node.js, Pythom & Typescript
 - **Frontend**: React, React Native, Vue.js
-- **Interests**: Web3, Blockchain, AI, Automation and InfoSec
+- **Interests**: AI, Automations and Cyber Security
 - **OS**: macOS, Linux & WSL 
 
 --- 
