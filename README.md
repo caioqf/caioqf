@@ -9,7 +9,7 @@ Building cloud infrastructure for AI workloads.
 - **Backend**: Golang, Node.js, Typescript
 - **Frontend**: React, React Native, Vue.js
 - **Interests**: Web3, Blockchain, AI, Automation and InfoSec
-- **OS**: Linux (Arch), Windows
+- **OS**: macOS, Linux & WSL 
 
 --- 
 
