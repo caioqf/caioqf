@@ -1,8 +1,8 @@
 # Hello 
 
-Software Engineer | AWS Cloud Architect
+Software Engineer | AWS Cloud Architect | A.I Enthusiast 
 
-Building cloud infrastructure for AI workloads.
+Building cloud infrastructure for AI workloads and agents.
 
 ## Technologies & Tools
 
@@ -13,4 +13,4 @@ Building cloud infrastructure for AI workloads.
 
 --- 
 
-Feel free to reach out for collaboration, discussions, or inquiries
+Feel free to reach out for collaboration, discussions, or inquiries on my discord: **caio.toml**
