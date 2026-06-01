@@ -1,6 +1,6 @@
 # Hello 
 
-Software Engineer | AWS Cloud Architect | A.I Enthusiast 
+Software Engineer | AWS Cloud | A.I Enthusiast 
 
 Building cloud infrastructure for AI workloads and agents.
 
